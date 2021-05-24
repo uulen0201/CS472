@@ -8,7 +8,7 @@
     <title>NerdLuv</title>
 
     <!-- instructor-provided CSS and JavaScript links; do not modify -->
-    <link href="images/heart.gif" type="image/gif" rel="shortcut icon"/>
+    <link href="https://raw.githubusercontent.com/uulen0201/CS472/main/SignUpPage/images/heart.gif" type="image/gif" rel="shortcut icon"/>
     <link href="nerdluv.css" type="text/css" rel="stylesheet"/>
 </head>
 
